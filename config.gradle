@@ -1,0 +1,6 @@
+ext{
+
+    retrofitVersion="2.5.0"
+    rxjavaVersion="2.2.7"
+
+}
